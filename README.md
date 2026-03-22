@@ -46,3 +46,8 @@ Successfully transmitted text data using laser communication over a short distan
 * Basics of optical communication
 * Microcontroller-based data transmission
 * Hardware debugging and signal handling
+
+## Project Documentation
+Detailed project documentation including abstract, flowcharts, and design is available here:
+
+[View Full Project PPT](./LiFi_Text_Communication_Project.pptx)
